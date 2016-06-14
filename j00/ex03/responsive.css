@@ -1,0 +1,111 @@
+body
+{
+	background: url(http://wallpapercave.com/wp/Q2wNKwf.jpg);
+}
+
+.h2
+{
+	font-size: 2.5vmin;
+	color: black;
+	text-align: center;
+}
+
+td
+{
+	width: 5.55%;
+	position: relative;
+}
+
+table
+{
+	width: 92vw;
+	height: 91vh;
+}
+
+.div
+{
+	width: 100%;
+	text-align: center;
+}
+.plein0
+{
+	border: 4px solid lightgreen;
+	text-align: center;
+	background-color: lightgreen;
+}
+.plein2
+{
+	border: 1px solid lightyellow;
+	text-align: center;
+	background-color: lightyellow
+}
+.plein3
+{
+	border: 1px solid mediumpurple;
+	text-align: center;
+	background-color: mediumpurple
+}
+.plein4
+{
+	border: 1px solid lightcoral;
+	text-align: center;
+	background-color: lightcoral
+}
+.plein5
+{
+	border: 1px solid lightpink;
+	text-align: center;
+	background-color: lightpink
+}
+.plein6
+{
+	border: 1px solid lightskyblue;
+	text-align: center;
+	background-color: lightskyblue
+}
+.plein7
+{
+	border: 1px solid lightsalmon;
+	text-align: center;
+	background-color: lightsalmon
+}
+.plein8
+{
+	border: 1px solid lightgray;
+	text-align: center;
+	background-color: lightgray;
+}
+.plein9
+{
+	border: 1px solid lightslategray;
+	text-align: center;
+	background-color: lightslategray
+}
+.plein10
+{
+	border: 1px solid yellowgreen;
+	text-align: center;
+	background-color: yellowgreen
+}
+.plein11
+{
+	border: 1px solid cadetblue;
+	text-align: center;
+	background-color: cadetblue
+}
+
+.poids
+{
+	font-size: 1.2vmin;
+	top: 0px;
+	right: 0px;
+	position: absolute;
+}
+
+.nr
+{
+	font-size: 1.2vmin;
+	bottom: 0px;
+	left: 0px;
+	position: absolute;
+}
